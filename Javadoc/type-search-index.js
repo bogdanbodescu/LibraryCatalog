@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ro.siit","l":"Album"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"ro.siit","l":"Book"},{"p":"ro.siit","l":"LibraryCatalog"},{"p":"ro.siit","l":"Main"},{"p":"ro.siit","l":"Novel"}]
