@@ -64,7 +64,7 @@ public class LibraryCatalog {
      * Function used to remove a book by its rank
      */
     public void removeBookByOrder(int number){
-        if(number<1 || t.size()<(number-1))
+        if(number<1 || t.size()<number)
         {
             System.out.println("We could not remove the book because the number provided is not valid! Try again.");
         }
